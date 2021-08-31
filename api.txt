@@ -1,1 +1,2 @@
-qrcode api
+qrcode api jalil
+git push --set-upstream original master
