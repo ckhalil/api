@@ -1,2 +1,16 @@
-[{"num": 200012210, "classe": "GS-B", "groupe": "Rougets", "nom": "Roundi", "prenom": "Yahya"},
-  {"num": 200013105, "classe": "CE1-A", "groupe": "Taounate", "nom": "EL-HORMA", "prenom": "NIAMATALLAH"}]
+[
+      {
+            "num": 200012210,
+            "classe": "GS-B",
+            "groupe": "Rougets",
+            "nom": "Roundi",
+            "prenom": "Yahya"
+      },
+      {
+            "num": 200013105,
+            "classe": "CE1-A",
+            "groupe": "Taounate",
+            "nom": "EL-HORMA",
+            "prenom": "NIAMATALLAH"
+      }
+]
