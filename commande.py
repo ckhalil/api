@@ -1,14 +1,11 @@
-
+import subprocess
 
 def githubcommande():
-    with open('C:/Users/T460/Desktop/api/com.txt', 'r') as f:
-        f.read()
-        print(f.read())
-
-def a():
     my_file = open("com.txt", "r")
     print(my_file.read())
+    subprocess.call("git add .")
+    subprocess.call("git commit -m 'jalil'")
+    subprocess.call("git push")
 
 
-
-a()
+githubcommande()
